@@ -1,0 +1,7 @@
+{
+  "logfile": false,
+  "logcmd": true,
+  "logLevel": "ERROR",
+  "outputEveryPath": false,
+  "enablePluginLoader": true
+}
